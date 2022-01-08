@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "helloWord.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorflourenco/CursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "victorflourenco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorflourenco/CursoNode/issues"
+  },
+  "homepage": "https://github.com/victorflourenco/CursoNode#readme"
+}
